@@ -19,5 +19,84 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #FFB6C1;
+}
+
+#bio {
+    content: "";
+  display: table;
+  clear: both;
+  background-color: #e6e6fa;
+    margin: 10px 20px 60px 20px;
+    border: 100px;
+    padding: 24px 26px;
+    float: left;
+}
+
+#talkaboutme {
+margin: 20px 20px 20px 20px;
+padding: 40px 40px 40px 40px;
+width: 30%;
+}
+img {
+    float: left;
+    clear: both;
+}
+
+body {
+    background-color: #E6DBFF;
+}
+article, header, nav, aside, section, footer {
+display: block;
+min-height: 100px; }
+
+header {
+    background-color: #DF3D82;
+    padding: 10px;
+    color: #E6DBFF;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    padding: 0px 80px;
+    font-size: 28px;
+}
+
+#contact me {
+    float: right;
+}
+
+aside {
+    float: right;
+    width: 40%;
+    list-style-type: none;
+    background-color: #85C1E9;
+    padding: 10px 10px 10px 10px;
+}
+#profpic {
+    padding: 10px 10px 10px 10px;
+    
+}
+.picone {
+        padding: 10px 10px 10px 10px;
+        height: 256px;
+        width: 256px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.pictwo {
+        padding: 10px 10px 10px 10px;
+        height: 256px;
+        width: 256px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.picthree {
+        padding: 10px 10px 10px 10px;
+        height: 256px;
+        width: 256px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
 }

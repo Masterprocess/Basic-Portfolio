@@ -8,6 +8,7 @@ ul {
 
 li {
     float: left;
+    text-align: center;
 }
 
 li a {
@@ -19,5 +20,156 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #FFB6C1;
 }
+
+#bio {
+    content: "";
+  display: table;
+  clear: both;
+  background-color: #e6e6fa;
+    margin: 10px 20px 20px 20px;
+    border: 100px;
+    padding: 24px 26px;
+    float: left;
+}
+
+#talkaboutme {
+margin: 20px 20px 20px 20px;
+padding: 100px 100px 100px 100px;
+float: left;
+background-color: #ffd1dc;
+}
+img {
+    float: left;
+    clear: both;
+}
+
+body {
+    background-color: #E6DBFF;
+}
+article, header, nav, aside, section, footer {
+display: block;
+min-height: 100px; }
+
+header {
+    background-color: #DF3D82;
+    padding: 10px;
+    color: #E6DBFF;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    padding: 0px 80px;
+    font-size: 28px;
+}
+h3 {
+    text-align: center;
+}
+
+#contact me {
+    float: right;
+    margin: 10px;
+}
+
+aside {
+    float: right;
+    list-style-type: none;
+    background-color: #85C1E9;
+    padding: 10px 10px 10px 10px;
+    margin:  10px 10px 10px 10px;
+
+}
+#profpic {
+    padding: 10px 10px 10px 10px;
+    
+}
+.work {
+    position: relative;
+    width: 100%;
+    border: 3px solid;
+}
+.picone {
+        padding: 10px 10px 10px 10px;
+        height: 50px;
+        width: 50px;
+        display: block;
+        margin: 10px 10px 10px 10px;;
+        float: right;
+        text-align: center;
+
+}
+.pictwo {
+        padding: 10px 10px 10px 10px;
+        height: 50px;
+        width: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        float: right;
+        text-align: center;
+}
+.picthree {
+        padding: 10px 10px 10px 10px;
+        height: 50px;
+        width: 50px;
+        display: block;
+        margin: 10px 10px 10px 10px;
+        float: right;
+        text-align: center;
+}
+#portfolioimage1 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #ddf9d9;
+    text-align: center;
+}
+#portfolioimage2 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #ec6778;
+    text-align: center;
+}
+#portfolioimage3 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #beaded;
+    text-align: center;
+}
+#portfolioimage4 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #decade;
+    text-align: center;
+}
+#portfolioimage5 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #deface;
+    text-align: center;
+}
+#portfolioimage6 {
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: 20px 20px 20px 20px;
+    list-style-type: none;
+    background-color: #d1fff4;
+    text-align: center;
+}
+
+
